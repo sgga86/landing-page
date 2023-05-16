@@ -67,6 +67,8 @@ a, .subtext {
   padding: 6px 24px;
   font-weight: 700;
   font-size: 18px;
+  box-shadow: 5px 3px 10px 5px rgb(184, 240, 72);
+  cursor: pointer;
 }
 
 .title {
