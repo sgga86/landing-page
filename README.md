@@ -9,6 +9,9 @@ Photo by cottonbro studio: https://www.pexels.com/photo/pink-doughnut-on-white-t
 Homer thinking of donuts
 Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4663852">Gordon Johnson</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4663852">Pixabay</a>
 
+Charisma donuts
+Photo by Daisy Anderson: https://www.pexels.com/photo/vampire-donuts-on-a-plate-5582253/
+
 Squirrel holding a donut
 Image by <a href="https://pixabay.com/users/worldaccording2jen-1324830/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698561">worldaccording2jen</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2698561">Pixabay</a>
 
