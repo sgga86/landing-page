@@ -1,7 +1,8 @@
 * {
     font-family: 'Roboto', sans-serif;
 }
-.main, .footer {
+.main,
+footer {
     background-color: #1f2937;
     color:#f9faf8;
 }
@@ -10,7 +11,7 @@
     padding: 20px 300px 100px;
 }
 
-.header {
+header {
     display: flex;
     justify-content: space-between;
     padding-bottom: 80px;
@@ -148,7 +149,7 @@ a, .subtext {
     font-weight: 700;
 }
 
-.footer {
+footer {
     display: flex;
     justify-content: center;
     align-items: center;
